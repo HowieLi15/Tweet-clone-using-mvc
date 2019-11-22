@@ -1,0 +1,29 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+    width: auto;
+    max-width: 780px;
+    padding: 0 15px;
+}
+.maincontainer{
+    padding: 10px;
+}
+
+.time{
+    color:darkslateblue;
+}
+.tweet{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+#loginerror{
+    display: none;
+}
+.footer {
+    background-color: #f5f5f5;
+}
